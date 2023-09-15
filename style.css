@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #pokemon-details {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  #pokemon-info {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
